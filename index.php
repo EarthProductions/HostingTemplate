@@ -1,3 +1,3 @@
-<?php include 'header.php';?>
+<?php include 'extra/header.php';?>
 
-<?php include 'footer.php';?>
+<?php include 'extra/footer.php';?>
